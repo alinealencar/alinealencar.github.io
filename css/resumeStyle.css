@@ -1,0 +1,70 @@
+body {
+	font-family: "Oxygen", sans-serif;
+}
+.blue {
+	color: #3366ff;
+}
+.grey {
+	color: #999;
+}
+.green {
+	color: #1199c3;
+}
+.section {
+	border-radius: 20px;
+    margin: 2% 5%;
+    background-color: #f3f3f3;
+    padding: 10px 25px;
+    clear: both;
+}
+.sectionTitle {
+	padding: 10px 0;
+	font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+}
+#name{
+	font-size: 40px;
+    line-height: 48px;
+    display: inline;
+}
+.header{
+	padding: 2.5% 5%;
+	margin: 0;
+}
+#details span {
+	padding: 0;
+}
+#details .bold{
+	padding: 1% 2% 1% 2%;
+}
+.bold{
+	font-weight: bold;
+}
+.bold a{
+	text-decoration: none;
+}
+.description {
+	padding-bottom: 5%;
+	font-size: 14px;
+}
+.skills .blue {
+    font-size: 20px;
+}
+.italic{
+	font-style: italic;
+}
+.skills span {
+	padding: 2%;
+}
+.year{
+	float: left;
+	font-size: 14px;
+}
+.location{
+	float: right;
+	font-size: 14px;
+}
+.company{
+	font-size: 14px;
+}
